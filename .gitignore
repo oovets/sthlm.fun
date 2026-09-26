@@ -1,0 +1,6 @@
+# Written by cron (tools/planes-feed.py every 10 s, tools/update-sl-sites.py nightly)
+data/*.json
+
+__pycache__/
+.well-known/
+plan.txt
