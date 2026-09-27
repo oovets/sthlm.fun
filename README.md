@@ -1,5 +1,3 @@
-# sthlm.fun - Stockholm Mission Control
-
 An interactive 3D map of Stockholm with real-time data from SL (Stockholm public transport), weather, sun position, and aircraft. Fly around as a drone, play a guessing game, or use a command terminal for control.
 
 **Visit:** [sthlm.fun](https://sthlm.fun/)
